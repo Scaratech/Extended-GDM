@@ -1,11 +1,9 @@
 {
   "name": "extended-gdm",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Group DM-Group DM Discord Bridge",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scaratech/extended-gdm.git"
@@ -17,7 +15,6 @@
   },
   "homepage": "https://github.com/scaratech/extended-gdm#readme",
   "dependencies": {
-    "discord.js-selfbot": "12.0.2",
-    "dotenv": "^16.4.5"
+    "discord.js-selfbot": "^12.0.2"
   }
 }
