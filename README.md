@@ -21,3 +21,12 @@ Then create a file called config.json and paste in:
 ```
 
 Then run `node index.js`
+
+## DISCLAIMER
+
+- Weird duplication bug with attatchments
+- I need to add a no bridge request functionallity
+- Replies don't work
+- Forwarding messages doesn't work
+- Things like updating title, adding people, etc. Won't forward, they'll just send a blank messages
+- Reactions don't work
